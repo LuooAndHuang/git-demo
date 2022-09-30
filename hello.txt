@@ -13,4 +13,4 @@ hello luojinquan hello git!
 hello luojinquan hello git!
 hello luojinquan hello git!
 hello luojinquan hello git!
-hello luojinquan hello git!gitgitgitgit
+hello luojinquan hello git! hot-fix test
